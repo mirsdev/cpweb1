@@ -1,0 +1,150 @@
+baseurl = "/"
+title = "Cora & Edoardo"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+theme = "coder-portfolio"
+# theme = "hyde-hyde"
+# theme = "hugo-resume"
+# theme = "seminyak"
+
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+paginate = 10
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = ""
+    description = ""
+    keywords = ""
+    info = ""
+    avatarurl = "images/cp2019.png"
+    #avatarurl = "images/avatar.jpg"
+    footercontent = ""
+    fixedbarContent = ""
+    # fixedbarContentAfter = "..."
+
+    hideCredits = true
+    hideCopyright = true
+
+    snsShare = false
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = ""
+
+[[params.social]]
+    name = "Nederlands"
+    weight = 1
+    url = "/nl"
+[[params.social]]
+    name = "Italiano"
+    weight = 2
+    url = "/it"
+[[params.social]]
+    name = "English"
+    weight = 3
+    url = "/en"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "" # The language name to be displayed in the selector.
+        title = "Cora & Edoardo"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = ""
+            info = ""
+            description = ""
+            keywords = ""
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "Travel"
+                weight = 1.0
+                url = "en/travel"
+
+            [[languages.en.menu.main]]
+                name = "Sleep"
+                weight = 2.0
+                url = "en/sleep"
+                
+            [[languages.en.menu.main]]
+                name = "Celebrate"
+                weight = 5
+                url = "en/celebrate"
+                
+    [languages.it]
+        languagecode = "it"
+        languagename = "" # The language name to be displayed in the selector.
+        title = "Cora & Edoardo"
+
+        # You can configure the theme parameter for each language.
+        [languages.it.params]
+            author = ""
+            info = ""
+            description = ""
+            keywords = ""
+
+        [languages.it.menu] # It is possible to change the menu too.
+
+            [[languages.it.menu.main]]
+                name = "Viaggiare"
+                weight = 1.0
+                url = "it/travel"
+
+            [[languages.it.menu.main]]
+                name = "Dormire"
+                weight = 2.0
+                url = "it/sleep"
+
+            [[languages.it.menu.main]]
+                name = "Festeggiare"
+                weight = 5
+                url = "it/celebrate"
+                
+    [languages.nl]
+        languagecode = "nl"
+        languagename = "" # The language name to be displayed in the selector.
+        title = "Cora & Edoardo"
+
+        # You can configure the theme parameter for each language.
+        [languages.nl.params]
+            author = ""
+            info = ""
+            description = ""
+            keywords = ""
+
+        [languages.nl.menu] # It is possible to change the menu too.
+
+            [[languages.nl.menu.main]]
+                name = "Reizen"
+                weight = 1.0
+                url = "nl/travel"
+
+            [[languages.nl.menu.main]]
+                name = "Overnachten"
+                weight = 2.0
+                url = "nl/sleep"
+                
+            [[languages.nl.menu.main]]
+                name = "Vieren"
+                weight = 5
+                url = "nl/celebrate"
