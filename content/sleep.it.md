@@ -10,3 +10,5 @@ There are several options available in Ortonovo.
 * Here
 * There
 * (...)es/new) or [ask me on Twitter](https://twitter.com/naro143).
+
+Dana dalakoa.
