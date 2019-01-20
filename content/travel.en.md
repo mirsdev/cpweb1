@@ -17,10 +17,10 @@ description = ""
 * Another nearby possibility is [Genova](https://www.genovaairport.com/).
 
 #### Car rentals
-All airports have several car rental companies.
+All airports have several car rental companies. E.g.:
 
-* Pisa
-* Genova
+* [RentalCars Pisa](http://www.rentalcars.com/en/airport/it/psa/?affiliateCode=msn_new_row&preflang=en&label=msn-39uoIQWB6JCk1jN0bmR29w-76003781912160&adcamp=Airports%20-%20Italy&adco=cpc&utm_medium=cpc&utm_source=bing&utm_term=39uoIQWB6JCk1jN0bmR29w&msclkid=2448ee6968a91d729680b22ddf26963c)
+* [RentalCars Genova](http://www.rentalcars.com/en/airport/ch/gva/?affiliateCode=msn_new_row&preflang=en&label=msn-pFOrQvR3ih4LFY6aMxwlFQ-75591465074382&adcamp=Airports%20-%20Switzerland&adco=cpc&utm_medium=cpc&utm_source=bing&utm_term=pFOrQvR3ih4LFY6aMxwlFQ&msclkid=d14e75a5c2921bf865d829e17544448e)
 
 ### Public transport
 
@@ -34,10 +34,10 @@ Tickets and timetibles: [trenitalia] (https://www.trenitalia.com/tcom-en).
 
 #### Buses to/from Ortonovo
 
-The following companies provide bus services between the train stations and Ortonovo:
+Bus services between the train stations and Ortonovo: [CTT Nord Massa-Carrara](https://massacarrara.teseo.app/)
 
-* _Carrara-Avenza_ to Ortonovo:
-* _Massa Centro_ to Ortonovo:
+* _Carrara-Avenza_ to Ortonovo: buses number 82 or 83 (~1/2h)
+* _Massa Centro_ to Ortonovo: bus number 17 and 82 (~2h)
 
 Please **let us know** if you think you will need additional support for lifts between the station and Ortonovo for arrivals and leavings.
 
@@ -48,6 +48,6 @@ Please **let us know** if you think you will need additional support for lifts b
 1. We expect many people to have a car to move around Ortonovo.
 2. Some people may also need lifts from/to airport or train stations.
 3. We would like to coordinate a car-sharing initiative to ease everyone's travel.
-  * If you will have a car with available sits, [please let us know]().
-  * If you will need a car, [please let us know]().
+  * If you will have a car with available sits, *[please let us know]()*.
+  * If you will need a car, *[please let us know]()*.
 4. We will put car-holders and car-needers in touch.
