@@ -9,8 +9,8 @@ The wedding ceremony will take place in the **morning 8/06**, so it is important
 
 There are several options w.r.t. accomodation, available in Ortonovo.
 
-* For the time being, the following place is **reserved for the nights before and after the wedding day**: http://www.santuariodelmirteto.it/accoglienza.html There are several rooms, which would fit about 40 guests, and it's right behind the party venue. 
-You will not be booking rooms yourself since it is already booked and places will be assigned by Edo and Cora according to your questionnaire. You will be contacted by the organisers soon.
+* For the time being, the following place is **reserved for the nights before and after the wedding day**: http://www.santuariodelmirteto.it/accoglienza.html . There are several rooms, which would fit about 40 guests, and it's right behind the party venue. 
+You are not supposed to book rooms yourself since it is already booked, and places will be assigned by Edo and Cora according to your questionnaire. You will be contacted by the organisers soon.
 
 * Moreover, the organisers are looking for some other solutions like hosting people at neighbouring houses. As soon as we'll have more info we'll let you know.
 
