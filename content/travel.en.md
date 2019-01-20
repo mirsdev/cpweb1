@@ -13,8 +13,8 @@ description = ""
 
 ### Aiports
 
-* The closest airport is [Pisa] (https://www.pisa-airport.com/) .
-* Another nearby possibility is [Genova] (https://www.genovaairport.com/) .
+* Closest: [Pisa airport] (https://www.pisa-airport.com/) .
+* Another nearby possibility: [Genova airport] (https://www.genovaairport.com/) .
 
 ##### Car rentals
 All airports have several car rental companies. _E.g._:
