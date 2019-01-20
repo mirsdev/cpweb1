@@ -5,8 +5,12 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-This is the overall program for the wedding.
+This is the tentative program for the wedding.
 
-### Program
+Detailed schedule to be announced in March/April.
 
-(...)
+### Program of the day
+
+* Ceremony: morning, Ortonovo downtown.
+
+* Celebrations: lunch and onwards, till late, Santuario.
