@@ -17,12 +17,16 @@ description = ""
 * Another nearby possibility is [Genova](https://www.genovaairport.com/).
 
 #### Car rentals
-* All airports have several car rental companies.
+All airports have several car rental companies.
+
+* Pisa
+* Genova
 
 ### Public transport
 
 #### Trains
 Ortonovo is 15 min far by car from the closest train stations:
+
 * _Carrara-Avenza_ 
 * _Massa Centro_
 
@@ -31,6 +35,7 @@ Tickets and timetibles: [trenitalia] (https://www.trenitalia.com/tcom-en).
 #### Buses to/from Ortonovo
 
 The following companies provide bus services between the train stations and Ortonovo:
+
 * _Carrara-Avenza_ to Ortonovo:
 * _Massa Centro_ to Ortonovo:
 
