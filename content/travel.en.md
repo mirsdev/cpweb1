@@ -13,14 +13,14 @@ description = ""
 ---------------------------
 ### Aiports
 
-* The closest airport is [Pisa] (https://www.pisa-airport.com/).
-* Another nearby possibility is [Genova] (https://www.genovaairport.com/).
+* The closest airport is [Pisa] (https://www.pisa-airport.com/) .
+* Another nearby possibility is [Genova] (https://www.genovaairport.com/) .
 
 #### Car rentals
 All airports have several car rental companies. _E.g._:
 
-* [RentalCars Pisa](https://www.rentalcars.com/en/airport/it/psa/?affiliateCode=msn_new_row&preflang=en&label=msn-39uoIQWB6JCk1jN0bmR29w-76003781912160&adcamp=Airports%20-%20Italy&adco=cpc&utm_medium=cpc&utm_source=bing&utm_term=39uoIQWB6JCk1jN0bmR29w&msclkid=2448ee6968a91d729680b22ddf26963c)
-* [RentalCars Genova](https://www.rentalcars.com/en/airport/ch/gva/?affiliateCode=msn_new_row&preflang=en&label=msn-pFOrQvR3ih4LFY6aMxwlFQ-75591465074382&adcamp=Airports%20-%20Switzerland&adco=cpc&utm_medium=cpc&utm_source=bing&utm_term=pFOrQvR3ih4LFY6aMxwlFQ&msclkid=d14e75a5c2921bf865d829e17544448e)
+* [RentalCars Pisa](https://www.rentalcars.com/en/airport/it/psa/?affiliateCode=msn_new_row&preflang=en&label=msn-39uoIQWB6JCk1jN0bmR29w-76003781912160&adcamp=Airports%20-%20Italy&adco=cpc&utm_medium=cpc&utm_source=bing&utm_term=39uoIQWB6JCk1jN0bmR29w&msclkid=2448ee6968a91d729680b22ddf26963c) 
+* [RentalCars Genova](https://www.rentalcars.com/en/airport/ch/gva/?affiliateCode=msn_new_row&preflang=en&label=msn-pFOrQvR3ih4LFY6aMxwlFQ-75591465074382&adcamp=Airports%20-%20Switzerland&adco=cpc&utm_medium=cpc&utm_source=bing&utm_term=pFOrQvR3ih4LFY6aMxwlFQ&msclkid=d14e75a5c2921bf865d829e17544448e) 
 
 ### Public transport
 
