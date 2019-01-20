@@ -48,6 +48,6 @@ Please **let us know** if you think you will need additional support for lifts b
 1. We expect many people to have a car to move around Ortonovo.
 2. Some people may also need lifts from/to airport or train stations.
 3. We would like to coordinate a car-sharing initiative to ease everyone's travel.
-  * If you will have a car with available sits, *[please let us know]()*.
-  * If you will need a car, *[please let us know]()*.
+  * If you will have a car with available seats, *[please let us know](linktoquestionnaire)*.
+  * If you will need a car, *[please let us know](linktoquestionnaire)*.
 4. We will put car-holders and car-needers in touch.
