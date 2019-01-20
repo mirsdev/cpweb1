@@ -5,9 +5,9 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-The wedding ceremony will take place in the **morning June 8^{th}**, so it is important that you are at the venue by that time :)
+The wedding ceremony will take place in the **morning June 8<sup>th</sup>**, so it is important that you are at the venue by that time :)
 
-### Friday, Saturday and Sunday (7-**8**-9 June)
+### Wedding day +/- 1
 
 * Cora and Edo will provide accomodation **for the nights before and after the wedding day** in a walking distance from [the party venue] (http://www.santuariodelmirteto.it/).
 
