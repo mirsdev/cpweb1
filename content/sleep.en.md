@@ -5,13 +5,21 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-The wedding ceremony will take place in the **morning 8/06**, so it is important that you are at the venue by that time :)
+The wedding ceremony will take place in the **morning June 8^{th}**, so it is important that you are at the venue by that time :)
 
-There are several options w.r.t. accomodation, available in Ortonovo.
+### Friday, Saturday and Sunday (7-**8**-9 June)
 
-* For the time being, the following place is **reserved for the nights before and after the wedding day**: http://www.santuariodelmirteto.it/accoglienza.html . There are several rooms, which would fit about 40 guests, and it's right behind the party venue. 
-You are not supposed to book rooms yourself since it is already booked, and places will be assigned by Edo and Cora according to your questionnaire. You will be contacted by the organisers soon.
+* Cora and Edo will provide accomodation **for the nights before and after the wedding day** in a walking distance from [the party venue] (http://www.santuariodelmirteto.it/).
 
-* Moreover, the organisers are looking for some other solutions like hosting people at neighbouring houses. As soon as we'll have more info we'll let you know.
+* You will be contacted by the organisers soon to sort out accomodation arrangements for these days (number of nights, people etc).
 
-* For who's brave enough to camp, the organisers will find some nice spot with access to water, wc, etc.. (most likely in the garden of Edo's grandmother.) 
+* If you have arranged your own accomodation, [please let us know](mailto:caviranipots@gmail.com).
+
+There is not much alternative accomodation within Ortonovo, but some options are available in Carrara/Marina di Carrara and Massa/Marina di Massa.
+
+### Travelling around
+
+If you are interested sighseeing the area before/after the wedding, these are some accomodation ideas and hopefully useful links:
+
+* [Pisa tourist information](https://pisaitaly.ca/)
+* etc
