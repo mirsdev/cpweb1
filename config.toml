@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
     fixedbarContent = "caviranipots@gmail.com"
     # fixedbarContentAfter = "..."
 
-    hideCredits = false
+    hideCredits = true
     hideCopyright = true
 
     snsShare = false
