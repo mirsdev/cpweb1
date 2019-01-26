@@ -21,6 +21,8 @@ Detailed schedule to be announced in March/April.
 
 No particular **dress code**.
 
+Your presence is **the best gift!!**
+
 ##### Language practice
 
 tba
