@@ -1,24 +1,8 @@
 +++
-title = "Snel naar Ortonovo"
+title = "Reizen"
 slug = "travel"
 thumbnail = "images/tn.png"
 description = ""
 +++
 
----------------------------
-
-### Venue
-
-Here and there.
-
-### Public transport
-
-Getting to Ortonovo is easy:
-
-* walk
-* bike
-* skate
-
----------------------------
-
-### Car share
+Dit gedeelte van de website is nog in ontwikkeling.

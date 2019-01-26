@@ -5,8 +5,4 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-This is the overall program for the wedding.
-
-### Program
-
-(...)
+Dit gedeelte van de website is nog in ontwikkeling.

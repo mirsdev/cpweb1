@@ -17,11 +17,11 @@ Detailed schedule to be announced in March/April.
 
 ### Preparations
 
-[Get in tune!](https://www.youtube.com/watch?v=_xPz0K_CrgA&app=desktop)
+&#119070; [Get in tune!](https://www.youtube.com/watch?v=_xPz0K_CrgA&app=desktop)
 
-No particular **dress code**.
+&#128090; No particular **dress code**.
 
-Your presence is **the best gift!!**
+&#127873; Your presence is **the best gift!!**
 
 ##### Language practice
 
