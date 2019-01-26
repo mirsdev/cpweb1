@@ -39,7 +39,7 @@ Bus services between the train stations and Ortonovo: [CTT Nord Massa-Carrara] (
 * _Carrara-Avenza_ to Ortonovo: buses number 82 or 83 (~1/2h)
 * _Massa Centro_ to Ortonovo: bus number 17 and 82 (~2h)
 
-Please [please let us know](mailto:caviranipots@gmail.com) if you think you will need additional support for lifts between the station and Ortonovo for arrival and/or leaving.
+[Please let us know](mailto:caviranipots@gmail.com) if you think you will need additional support for lifts between the station and Ortonovo for arrival and/or leaving.
 
 ### Car sharing
 
