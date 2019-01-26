@@ -25,14 +25,14 @@ disqusShortname = "yourdiscussshortname"
     keywords = ""
     info = ""
     avatarurl = "images/trumpet_m.jpg"
-    footercontent = "If you have any question, please contact us: caviranipots@gmail.com"
+    footercontent = "caviranipots@gmail.com"
     fixedbarContent = ""
     # fixedbarContentAfter = "..."
 
     hideCredits = true
     hideCopyright = true
 
-    snsShare = false
+    snsShare = true
 
     thumbnail = "images/tn.png"
 
