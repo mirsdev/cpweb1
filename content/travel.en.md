@@ -46,6 +46,6 @@ Bus services between the train stations and Ortonovo: [CTT Nord Massa-Carrara] (
 1. We expect many people to have a car to move around Ortonovo.
 2. Some people may also need lifts from/to airport or train stations.
 3. We would like to coordinate a car-sharing initiative to ease everyone's travel.
-  * If you will have a car with available seats, *[please let us know](https://goo.gl/forms/avpgTQEIYGk6gqXx2)*.
-  * If you will need a lift, *[please let us know](https://goo.gl/forms/iQqIanAn30k2s86y1)*.
+  * If you will have a car with available seats, *[please let us know](https://goo.gl/forms/rEuT2mqwiWYVSq3t2)*.
+  * If you will need a lift, *[please let us know](https://goo.gl/forms/iQqIanAn30k2s)*.
 4. We will put car-holders and car-needers in touch.
