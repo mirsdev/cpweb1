@@ -17,7 +17,7 @@ Detailed schedule to be announced in March/April.
 
 ### Preparations
 
-&#127900; [Get in tune!](https://www.youtube.com/watch?v=_xPz0K_CrgA&app=desktop)
+&#9835; [Get in tune!](https://www.youtube.com/watch?v=_xPz0K_CrgA&app=desktop)
 
 &#128090; No particular **dress code**.
 
