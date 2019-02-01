@@ -5,7 +5,9 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-The wedding will take place in [Ortonovo](https://en.wikipedia.org/wiki/Ortonovo) (see map below).
+The wedding will take place in [Ortonovo](https://en.wikipedia.org/wiki/Ortonovo).
+
+<a target="_blank" rel="noopener noreferrer" href="http://umap.openstreetmap.fr/en/map/cp2019_288748#9/44.2009/10.4370"><img src="img/ortonovo_airports.png" alt="ortonovo_map"></a>
 
 ### <span class='iconsize'>✈</span>  &ensp;Airports
 
@@ -43,6 +45,3 @@ Bus services between the train stations and Ortonovo: [CTT Nord Massa-Carrara] (
   * If you will need a lift, *[please let us know](https://docs.google.com/forms/d/e/1FAIpQLSeNe8Y8DdOuJftMdVe_Y9ZdNUVcMvt7PFnieALL51_XCOfb5A/viewform?usp=sf_link)*.
 4. We will put car-holders and car-needers in touch.
 
----
-
-<iframe width="100%" height="600px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/en/map/cp2019_288748?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false#9/44.1091/9.8326"></iframe>
