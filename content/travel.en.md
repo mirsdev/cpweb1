@@ -5,7 +5,6 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
----------------------------
 ### Venue
 
 [Ortonovo] (https://en.wikipedia.org/wiki/Ortonovo)
