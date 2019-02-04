@@ -37,7 +37,7 @@ Er rijden volgende bussen tussen de treinstations en Ortonovo: [CTT Nord Massa-C
 * _Carrara-Avenza_ naar Ortonovo: bussen 82 of 83 (~1/2 uur)
 * _Massa Centro_ naar Ortonovo: bussen 17 and 82 (~2 uur)
 
-[Laat ons weten a.u.b.](mailto:caviranipots@gmail.com) als je assistentie nodig hebt voor de reis van het station naar Ortonovo en terug bij je aankomst/vertrek.
+[Laat ons weten a.u.b.](mailto:caviranipots@gmail.com) als je bij je aankomst/vertrek assistentie nodig hebt, m.b.t. de reis van het station naar Ortonovo en terug.
 
 ### <span class='iconsize'>&#129309;</span> Car sharing/Auto delen
 1. We verwachten dat veel gasten auto's hebben om te reisen in de buurt van Ortonovo. 
