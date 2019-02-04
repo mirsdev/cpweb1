@@ -32,7 +32,7 @@ Kaartjes en roosters: [trenitalia] (https://www.trenitalia.com/tcom-en).
 
 ### <span class='iconsize'>🚌</span> Bussen naar/van Ortonovo
 
-Bussen tussen de treinstations en Ortonovo: [CTT Nord Massa-Carrara] (https://massacarrara.teseo.app/)
+Er rijden volgende bussen tussen de treinstations en Ortonovo: [CTT Nord Massa-Carrara] (https://massacarrara.teseo.app/)
 
 * _Carrara-Avenza_ naar Ortonovo: bussen 82 of 83 (~1/2 uur)
 * _Massa Centro_ naar Ortonovo: bussen 17 and 82 (~2 uur)
