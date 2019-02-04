@@ -20,7 +20,7 @@ Er zijn niet veel alternatieven voor het logeren in Ortonovo, maar toch zijn er 
 
 ### Reisen rondom Ortonovo
 
-Als jullie in het ontdekken van de bezienswaardigheden in de buurt van Ortonovo zijn geinterreseerd, zijn er nog enkele ideas over het logeren en nuttige (hopen wij) links:
+Als jullie zin in het ontdekken van de bezienswaardigheden in de buurt van Ortonovo hebben, zijn er nog enkele ideeën over het logeren en nuttige (hopen wij) links:
 
 * [Pisa tourist information](https://pisaitaly.ca/)
 * etc
