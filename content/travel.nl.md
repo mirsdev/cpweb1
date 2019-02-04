@@ -43,7 +43,7 @@ Bussen tussen de treinstations en Ortonovo: [CTT Nord Massa-Carrara] (https://ma
 1. We verwachten dat veel gasten auto's hebben om te reisen in de buurt van Ortonovo. 
 2. Enige mensen kunnen ook lift nodig hebben om van/naar de vlieghavens en de stations te reizen.
 3. Daarom willen we "Care sharing" initiative cooordineren om iedereen's reis een stuk makkelijker te maken.
-  * Als je en auto met vrije plaatsen hebt,  *[laat ons weten, aub](https://docs.google.com/forms/d/e/1FAIpQLScJLmbVqMeDLjNyuYsAIG8bULhX4dJW82KQXiBOjhvQg18REA/viewform?usp=sf_link)*.
+  * Als je een auto met vrije plaatsen hebt,  *[laat ons weten, aub](https://docs.google.com/forms/d/e/1FAIpQLScJLmbVqMeDLjNyuYsAIG8bULhX4dJW82KQXiBOjhvQg18REA/viewform?usp=sf_link)*.
   * Als je lift nodig hebt, *[laat ons weten, aub](https://docs.google.com/forms/d/e/1FAIpQLSeNe8Y8DdOuJftMdVe_Y9ZdNUVcMvt7PFnieALL51_XCOfb5A/viewform?usp=sf_link)*.
 4. We gaan de auto-hebbers en auto-nodigers in contact bringen. 
 
