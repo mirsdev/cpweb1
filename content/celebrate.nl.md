@@ -7,7 +7,7 @@ description = ""
 
 Dit gedeelte van de website is nog in ontwikkeling.
 
-Het is nog een schets van het programma van de bruiloft.
+Het is een schets van het programma van de bruiloft.
 
 ### De agenda van de dag
 
