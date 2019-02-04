@@ -7,7 +7,7 @@ description = ""
 
 Dit gedeelte van de website is nog in ontwikkeling...
 
-Cora en Edo gaan trouwen op 8 juni 2019 in [Ortonovo](https://en.wikipedia.org/wiki/Ortonovo)! Jullie zijn van harte welkom op de ceremonie en het huwelijksfeest op deze dag.
+Cora en Edo gaan trouwen, op 8 juni 2019 in [Ortonovo](https://en.wikipedia.org/wiki/Ortonovo)! Jullie zijn van harte welkom op de ceremonie en het huwelijksfeest op deze dag.
 
 <a target="_blank" rel="noopener noreferrer" href="http://umap.openstreetmap.fr/en/map/cp2019_288748#9/44.2009/10.4370"><img src="img/ortonovo_airports.png" alt="ortonovo_map"></a>
 
