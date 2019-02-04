@@ -16,7 +16,7 @@ De ceremonie vindt plaats **op vrijdag 8 juni 2019 's morgens**, het is dus bela
 
 * De organisatoren zullen met jullie contact opnemen om het logeren op die dagen voor jullie te regelen. Ze willen aantal nachten, aantal personen ezw weten.
 
-Er zijn niet veel alternatieven voor het logeren in Ortinovo, maar toch zijn er enkele opties in Carrara/Marina di Carrara and Massa/Marina di Massa beschikbaar.
+Er zijn niet veel alternatieven voor het logeren in Ortonovo, maar toch zijn er enkele opties in Carrara/Marina di Carrara and Massa/Marina di Massa beschikbaar.
 
 ### Reisen rondom Ortonovo
 
