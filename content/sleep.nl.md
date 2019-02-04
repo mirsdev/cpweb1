@@ -12,7 +12,7 @@ De ceremonie vindt plaats **op vrijdag 8 juni 2019 's morgens**, het is dus bela
 
 ### Trouwdag +/- 1
 
-* Cora en Edo gaan zorgen over het logeren van de gasten **op de nacht vóór de bruiloft (donderdag-vrijdag) en op de nacht na de bruiloft (vrijdag-zaterdag)**. Daarvoor hebben ze een aantal plaatsen gereserveerd in een hotel op loopafstand van [het plaats van de ceremonie] (http://www.santuariodelmirteto.it/).
+* Cora en Edo gaan zorgen over het logeren van de gasten **op de nacht vóór de bruiloft (donderdag-vrijdag) en op de nacht na de bruiloft (vrijdag-zaterdag)**. Daarvoor hebben ze een aantal plaatsen gereserveerd in een hotel op loopafstand van [de plaats van de ceremonie] (http://www.santuariodelmirteto.it/).
 
 * De organisatoren zullen met jullie contact opnemen om het logeren op die dagen voor jullie te regelen. Ze willen aantal nachten, aantal personen ezw weten.
 
