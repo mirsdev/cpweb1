@@ -17,7 +17,7 @@ Cora en Edo gaan trouwen, op 8 juni 2019 in [Ortonovo](https://en.wikipedia.org/
 * een andere vlieghaven "in de buurt": [Genova vlieghaven] (https://www.genovaairport.com/) .
 
 ### <span class='iconsize'>🚗</span> Autoverhuur
-Op alle vlieghavens zijn er een aantal autoverhuurbedrijven, _bvb._:
+Op alle vlieghavens zijn er een aantal autoverhuurbedrijven te vinden, _bvb._:
 
 * [RentalCars Pisa](https://www.rentalcars.com/en/airport/it/psa/?affiliateCode=msn_new_row&preflang=en&label=msn-39uoIQWB6JCk1jN0bmR29w-76003781912160&adcamp=Airports%20-%20Italy&adco=cpc&utm_medium=cpc&utm_source=bing&utm_term=39uoIQWB6JCk1jN0bmR29w&msclkid=2448ee6968a91d729680b22ddf26963c) 
 * [RentalCars Genova](https://www.rentalcars.com/en/airport/ch/gva/?affiliateCode=msn_new_row&preflang=en&label=msn-pFOrQvR3ih4LFY6aMxwlFQ-75591465074382&adcamp=Airports%20-%20Switzerland&adco=cpc&utm_medium=cpc&utm_source=bing&utm_term=pFOrQvR3ih4LFY6aMxwlFQ&msclkid=d14e75a5c2921bf865d829e17544448e) 
